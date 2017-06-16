@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{903D6EC7-F0A6-46B8-88D3-3305B7CC522C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander/ViewModels/MainViewModel.cs">
+    <Files>
+      <File FileName="Droid/Effects/DigitalFontEffect.cs" Line="30" Column="39" />
+      <File FileName="DroneLander/MainPage.xaml" Line="33" Column="15" />
+      <File FileName="DroneLander/Effects/DigitalFontEffect.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="DroneLander/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="DroneLander/App.xaml" Line="46" Column="15" />
+      <File FileName="iOS/Renderers/FuelControlRenderer.cs" Line="1" Column="1" />
+      <File FileName="DroneLander/Services/IAudioService.cs" Line="16" Column="2" />
+      <File FileName="Droid/Services/AudioServices.cs" Line="88" Column="2" />
+      <File FileName="iOS/Services/AudioServices.cs" Line="36" Column="38" />
+      <File FileName="DroneLander/Helpers/AudioHelper.cs" Line="31" Column="2" />
+      <File FileName="DroneLander/ViewModels/MainViewModel.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Development/DroneLander/DroneLander/Droid/Effects/DigitalFontEffect.cs" relfile="Droid/Effects/DigitalFontEffect.cs" line="22" column="68" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DroneLander.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A9EE8E35-178F-4ED6-BC48-4E85BEF614E3" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DroneLander.Droid PreferredExecutionTarget="Android.Pixel_XL_API_24" />
+</Properties>
