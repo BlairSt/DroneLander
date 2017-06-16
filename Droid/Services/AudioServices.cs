@@ -49,7 +49,7 @@ namespace DroneLander.Droid.Services
 			}
 			else
 			{
-				var fullPath = "Sounds/engine.m4a";
+				var fullPath = "engine.m4a";
 				Android.Content.Res.AssetFileDescriptor afd = null;
 
 				try
